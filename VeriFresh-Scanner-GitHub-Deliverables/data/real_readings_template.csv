@@ -1,0 +1,1 @@
+sample_id,replicate_id,timestamp,elapsed_ms,bme_temp_c,bme_humidity_pct,bme_pressure_hpa,bme_gas_ohms,sgp_tvoc_ppb,sgp_eco2_ppm,ripening_condition,label_source,sample_mass_g,chamber_id,measurement_notes
